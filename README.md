@@ -126,7 +126,7 @@ First, you need to install dependencies.
 yarn install
 ```
 
-After that you can set up a docs server by running:
+After that you can set up a documentation server by running:
 
 ```
 yarn docs:dev
